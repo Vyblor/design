@@ -26,10 +26,10 @@ Say these four things to the user in a few plain lines, then build. Ask only if 
 
 1. **Who reads this and where.** A shop owner on a phone between customers reads differently from a developer at a desk.
 2. **The one action** the page exists for.
-3. **The material.** Name something physical or specific from this subject: a kraft bag and a stamped roast date, a carbon-copy receipt, a tide table, a clinic's appointment card. Colour, type, texture and layout borrow from it. This single step does the most work. A page that could swap its logo with any other company's has no material.
+3. **The material.** Name something physical or specific from this subject, the thing people in that trade would recognise and outsiders would not think of. For a ferry operator, the departure board. For a piano teacher, a pencilled score. For a payroll tool, the pay slip. Colour, type, texture and layout borrow from it. This single step does the most work. A page that could swap its logo with any other company's has no material. Those three are illustrations: find your own, and do not reuse a motif from this skill.
 4. **The one thing someone will remember.** A huge word, an odd grid, a table where others put cards, one motion. Spend boldness there and stay quiet elsewhere.
 
-A direction is a position. "Clean and modern" is not one, because it rules nothing out. "A tide table printed on cheap blue paper" rules out most things, which is the point.
+A direction is a position. "Clean and modern" is not one, because it rules nothing out. "A harbour departure board at dusk" rules out most things, which is the point.
 
 ## Step 2. Refuse the reflexes
 
@@ -52,6 +52,7 @@ If one of these is in your draft, it got there by habit. Replace it unless the b
 | Alternating tinted section backgrounds as the only rhythm | Change the layout, the scale or the density between sections, not only the fill. |
 | Eyebrow label in small spaced capitals over every heading | Remove it. Korean has no capitals at all, so it never survives translation. |
 | Footer with four columns of links the site does not have | Only links that exist. A short footer is honest. |
+| Warm cream background, large serif, one rust or terracotta accent, small mono labels, a hard offset shadow, a tilted paper card, a rubber stamp | This is the newer house style of AI pages, and it is where you land when you avoid the older one. If your draft arrives here, you stopped at the second idea. Change the lightness, the hue family or the whole structure: a saturated field, a dense dark board, full-bleed photography, a page that is mostly a table. |
 
 ## Step 3. Decide in this order
 

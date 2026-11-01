@@ -10,7 +10,7 @@ The signature mistake of generated pages is fade-and-rise on every section as it
 
 ## One signature
 
-Pick the single motion this page is remembered for, drawn from the material: a stamp pressing onto paper, a ticker of today's roast dates, a page turning. Make it good, then leave the rest alone.
+Pick the single motion this page is remembered for, drawn from the material: a split-flap board settling, a pencil line drawing itself, a number rolling once. Make it good, then leave the rest alone.
 
 ## Numbers
 

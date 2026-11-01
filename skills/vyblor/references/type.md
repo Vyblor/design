@@ -4,7 +4,7 @@ Type is most of what a page looks like, so choose it first. If there is Korean o
 
 ## Choosing
 
-Find the display voice in the material from the brief. A roastery's stamped bag suggests a heavy slab or a grotesque with worn corners. A law office suggests a text serif set with care. A children's clinic suggests a rounded face with real warmth, not a geometric sans in a pastel.
+Find the display voice in the material from the brief. A freight company's container markings suggest a stencil or a condensed grotesque. A law office suggests a text serif set with care. A children's clinic suggests a rounded face with real warmth, not a geometric sans in a pastel. A serif is not a shortcut to taste: on a page with no reason for one, it reads as the same default as Inter, only warmer.
 
 Ask of any font: what would this have been printed on? If the answer is "a slide deck", keep looking.
 
